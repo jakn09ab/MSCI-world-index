@@ -1,0 +1,2 @@
+# MSCI-world-index
+MSCI
